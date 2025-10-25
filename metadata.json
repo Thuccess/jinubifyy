@@ -1,0 +1,5 @@
+{
+  "name": "Jinubify - Modern Multi-Page Website",
+  "description": "A fully responsive, modern multi-page website for a fictional company 'Jinubify'. Built with React, TypeScript, and Tailwind CSS, it features pages for Home, About, Services, Portfolio, Blog, and Contact, with smooth animations and a consistent, visually appealing design.",
+  "requestFramePermissions": []
+}
